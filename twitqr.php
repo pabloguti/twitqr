@@ -2,7 +2,8 @@
 /**
    * @package twitqr
    * @version   1.1
-   * @author    Minipunk
+   * @author_original    Minipunk
+   * @author_this_version Pabloguti
    * @copyright (C) 2013 Minipunk
    *
    * @license        Apache License Version 2.0, see LICENSE.md
