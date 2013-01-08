@@ -5,4 +5,9 @@ Código de @minipunk para responder en twitter con un QR a la mención
 3º Configurar twitqr.php con tus parámetros
 4º Ejecutar desde cron en tu servidor cada X tiempo (Será cuando responda)
 
+8/JAN/2013
+-----------------------------------------
+Añadida la respuesta por mención directa, no por mención en texto.
+-----------------------------------------
+
 EXAMPLE IN LIVE https://twitter.com/creaqr
